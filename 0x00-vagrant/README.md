@@ -1,2 +1,4 @@
-This is a small project of setting up your locale coding environement
+Title of the project:		Setting up your local coding environment
+
+For this project we're expecting to install and configure ubuntu on our local machines or with virtualizations
 
